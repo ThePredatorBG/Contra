@@ -2,7 +2,7 @@
 <Modification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <modificationType>Addon</modificationType>
   <Name>CONTRA WATER EFFECTS DISABLER</Name>
-  <ModificationVersion />
+  <ModificationVersion>009 Final Patch 3 Hotfix 2</ModificationVersion>
   <DownloadLink>https://www.dropbox.com/s/m5vatqohucbb2ol/ContraWaterEffectsOff.rar?dl=1</DownloadLink>
   <DependenceName>Contra</DependenceName>
 </Modification>
