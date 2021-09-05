@@ -2,7 +2,7 @@
 <Modification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <modificationType>Patch</modificationType>
   <Name>CONTRA RUSSIAN LANGUAGE AND LEGACY HOTKEYS</Name>
-  <ModificationVersion />
+  <ModificationVersion>009 Final Patch 3 Hotfix 2</ModificationVersion>
   <DownloadLink>https://www.dropbox.com/s/a1ckgow6qiun4hy/ContraRULegacy.rar?dl=1</DownloadLink>
   <DependenceName>Contra</DependenceName>
 </Modification>
