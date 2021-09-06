@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Modification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <modificationType>Addon</modificationType>
-  <Name>CONTRA FUNNY PORTRAITS</Name>
+  <Name>FUNNY PORTRAITS</Name>
   <ModificationVersion>009 Final Patch 3 Hotfix 2</ModificationVersion>
   <DownloadLink>https://www.dropbox.com/s/8grt5qlshrsm4a0/ContraFunnyGenPics.rar?dl=1</DownloadLink>
   <DependenceName>Contra</DependenceName>
