@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Modification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <modificationType>Addon</modificationType>
-  <Name>CONTRA NATIVE UNIT VOICES</Name>
+  <Name>NATIVE UNIT VOICES</Name>
   <ModificationVersion>009 Final Patch 3 Hotfix 2</ModificationVersion>
   <DownloadLink>https://www.dropbox.com/s/o89ygoma01v3g94/ContraNatVO.rar?dl=1</DownloadLink>
   <DependenceName>Contra</DependenceName>
