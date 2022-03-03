@@ -12,3 +12,4 @@ S3BucketName: contra
 S3FolderName: contra-individual-files
 S3HostPublicKey: ''
 S3HostSecretKey: ''
+NetworkInfo: https://github.com/ContraMod/Launcher/blob/master/Online%20Instructions.md
