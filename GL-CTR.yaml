@@ -14,17 +14,4 @@ S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://github.com/ContraMod/Launcher/blob/master/Online%20Instructions.md
 SupportLink: https://www.paypal.com/paypalme/Contramod
-ColorsInformation:
-  GenLauncherBorderColor: '#f4dfa0'
-  GenLauncherInactiveBorder: '#bcbcbd'
-  GenLauncherInactiveBorder2: '#bcbcbd'
-  GenLauncherActiveColor: '#c3ff15'
-  GenLauncherDarkFillColor: '#5b2d09'
-  GenLauncherDarkBackGround: '#000000'
-  GenLauncherLightBackGround: '#000000'
-  GenLauncherDefaultTextColor: '#ffffff'
-  GenLauncherDownloadTextColor: '#ffffff'
-  GenLauncherListBoxSelectionColor2: '#532805'
-  GenLauncherListBoxSelectionColor1: '#532805'
-  GenLauncherButtonSelectionColor: '#5a2e07'
-  GenLauncherBackgroundImageLink: https://cdn.discordapp.com/attachments/410501978784006144/1130221930193113098/image.png
+
