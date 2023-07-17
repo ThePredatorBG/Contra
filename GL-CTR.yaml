@@ -23,7 +23,7 @@ ColorsInformation:
   GenLauncherDarkBackGround: '#000000'
   GenLauncherLightBackGround: '#000000'
   GenLauncherDefaultTextColor: '#ffffff'
-  GenLauncherDownloadTextColor: '#ffffff'
+  GenLauncherDownloadTextColor: '#000000'
   GenLauncherListBoxSelectionColor2: '#532805'
   GenLauncherListBoxSelectionColor1: '#532805'
   GenLauncherButtonSelectionColor: '#5a2e07'
