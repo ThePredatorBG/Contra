@@ -2,7 +2,7 @@ ModificationType: Mod
 Name: Contra
 Version: 10.0.0 Beta
 SimpleDownloadLink: https://gen.insave.ovh/contra/mod/ContraLatestBasic.rar
-UIImageSourceLink: https://i.imgur.com/S0k2wyo.png
+UIImageSourceLink: https://imgur.com/a/WaD3lkg.png
 DiscordLink: https://discord.gg/015E6KXXHmdWFXCtt
 ModDBLink: https://www.moddb.com/mods/contra
 NewsLink: https://www.moddb.com/mods/contra/articles
@@ -15,16 +15,16 @@ S3HostSecretKey: ''
 NetworkInfo: https://github.com/ContraMod/Launcher/blob/master/Online%20Instructions.md
 SupportLink: https://www.paypal.com/paypalme/Contramod
 ColorsInformation:
-  GenLauncherBorderColor: '#f4dfa0'
-  GenLauncherInactiveBorder: '#bcbcbd'
-  GenLauncherInactiveBorder2: '#bcbcbd'
-  GenLauncherActiveColor: '#f4faaf'
-  GenLauncherDarkFillColor: '#5b2d09'
+  GenLauncherBorderColor: '#f7e75a'
+  GenLauncherInactiveBorder: '#808080'
+  GenLauncherInactiveBorder2: '#915000'
+  GenLauncherActiveColor: '#ffd700'
+  GenLauncherDarkFillColor: '#633000'
   GenLauncherDarkBackGround: '#000000'
-  GenLauncherLightBackGround: '#000000'
+  GenLauncherLightBackGround: '#cc000000'
   GenLauncherDefaultTextColor: '#ffffff'
   GenLauncherDownloadTextColor: '#000000'
-  GenLauncherListBoxSelectionColor2: '#532805'
-  GenLauncherListBoxSelectionColor1: '#532805'
-  GenLauncherButtonSelectionColor: '#5a2e07'
-  GenLauncherBackgroundImageLink: https://cdn.discordapp.com/attachments/1139832928650661908/1214693538755772456/10.0.0_Betabg.png?ex=65fa0a83&is=65e79583&hm=e341ecb9e8be2ef365aa7cb970285985bbb537d17955b907aa1cc377a2b2cf84&
+  GenLauncherListBoxSelectionColor2: '#b36c3b0b'
+  GenLauncherListBoxSelectionColor1: '#b36c3b0b'
+  GenLauncherButtonSelectionColor: '#cc7b4b00'
+  GenLauncherBackgroundImageLink: https://i.imgur.com/S0k2wyo.png
