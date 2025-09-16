@@ -1,6 +1,6 @@
 ModificationType: Addon
 Name: HD Cameos
-Version: 10.0.0 Beta
+Version: 10.0.1 Beta 2
 SimpleDownloadLink: https://gen.insave.ovh/contra/contra-addons/ContraCameosHD.rar
 UIImageSourceLink: https://cdn.discordapp.com/attachments/410500983198580740/886922818460209152/contra-logo.png
 DiscordLink: ''
@@ -12,3 +12,4 @@ S3BucketName: ''
 S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
+
