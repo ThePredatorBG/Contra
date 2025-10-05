@@ -1,6 +1,6 @@
 ModificationType: Patch
 Name: English language and Leikeze hotkeys
-Version: 10.0.1 Beta 2
+Version: 10.0.2 Beta 2 Patch 1
 SimpleDownloadLink: https://gen.insave.ovh/contra/contra-patches/ContraENLeikeze.rar
 UIImageSourceLink: https://cdn.discordapp.com/attachments/410500983198580740/886922818460209152/contra-logo.png
 DiscordLink: ''
@@ -12,4 +12,5 @@ S3BucketName: ''
 S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
+
 
